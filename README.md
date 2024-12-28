@@ -6,6 +6,8 @@
 <h3 align="center">Excited about all aspects and developments in the computer field. My goal is to keep developing my skills and work in a collaborative environment, putting my technical expertise to work to create flexible and reliable solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortadhafenni" alt="mortadhafenni" /></a> </p>
+<p align="left"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortadhafenni&theme=onedark" alt="mortadhafenni" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
