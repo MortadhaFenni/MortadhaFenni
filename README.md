@@ -27,7 +27,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="40" height="40"/> </a>
-  <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="40" height="40"/> </a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ocaml" alt="Ocaml" width="40" height="40"/> </a>
 </p>
